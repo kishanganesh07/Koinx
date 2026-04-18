@@ -1,0 +1,26 @@
+/* Import Inter font */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+/* Import Tailwind v4 */
+@import "tailwindcss";
+
+/* Enable class-based dark mode (works with our React isDark toggle) */
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* Apply Inter font globally */
+@layer base {
+  * {
+    font-family: 'Inter', sans-serif;
+    box-sizing: border-box;
+  }
+  body {
+    margin: 0;
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
+  }
+}
+
+/* Loading spinner animation */
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
