@@ -83,18 +83,43 @@ npm start
 ---
 
 ##  Screenshots
-![Dashboard](koinx-react/public/image.png)
-![Tooltip](koinx-react/public/image-1.png)
-![Accordion](koinx-react/public/image-2.png)
-![Table Start](koinx-react/public/image-3.png)
-![Table Sorted](koinx-react/public/image-4.png)
-![Table View Less](koinx-react/public/image-5.png)
-![Calculation](koinx-react/public/image-6.png)
-![Selection](koinx-react/public/image-7.png)
-![Savings](koinx-react/public/image-8.png)
-![Dark Mode](koinx-react/public/image-9.png)
-![Theme Toggle](koinx-react/public/image-10.png)
-![Mobile View](koinx-react/public/image-11.png)
+
+### Dashboard
+![Dashboard](./koinx-react/public/image.png)
+
+### Tooltip
+![Tooltip](./koinx-react/public/image-1.png)
+
+### Accordion
+![Accordion](./koinx-react/public/image-2.png)
+
+### Table Start
+![Table Start](./koinx-react/public/image-3.png)
+
+### Table Sorted
+![Table Sorted](./koinx-react/public/image-4.png)
+
+### Table View Less
+![Table View Less](./koinx-react/public/image-5.png)
+
+### Calculation
+![Calculation](./koinx-react/public/image-6.png)
+
+### Selection
+![Selection](./koinx-react/public/image-7.png)
+
+### Savings
+![Savings](./koinx-react/public/image-8.png)
+
+### Dark Mode
+![Dark Mode](./koinx-react/public/image-9.png)
+
+### Theme Toggle
+![Theme Toggle](./koinx-react/public/image-10.png)
+
+### Mobile View
+![Mobile View](./koinx-react/public/image-11.png)
+
 ---
 
 ##  Future Improvements
