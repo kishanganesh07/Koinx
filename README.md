@@ -51,6 +51,7 @@ Koinx/
 │   │   │── index.js    # Entry point
 │   │── package.json    # Dependencies
 │── README.md           # Project documentation
+```
 
 ---
 
